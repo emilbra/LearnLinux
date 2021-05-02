@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-05-02T10:24:46.986Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="N5Xv5ZFzL3eiuXsMo1aH" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-02T13:52:20.814Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="QgbEMcqANzmZD9FEvJsi" version="14.2.9" type="github" pages="2">
   <diagram id="JbxYOFSzG8xJrszYHL9N" name="Page-1">
-    <mxGraphModel dx="516" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="516" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ig7lKBUopQ_dEr6nW1_Z-1" value="Linux Host&lt;br&gt;(Ubuntu 20.04.2.0 LTS)&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="ig7lKBUopQ_dEr6nW1_Z-1" value="Ubuntu1&lt;br&gt;(Ubuntu 20.04.2.0 LTS)&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="240" y="50" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ig7lKBUopQ_dEr6nW1_Z-2" value="Fail2Ban" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -22,6 +22,14 @@
         <mxCell id="ig7lKBUopQ_dEr6nW1_Z-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="ig7lKBUopQ_dEr6nW1_Z-15" target="ig7lKBUopQ_dEr6nW1_Z-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="eCuNAEQwPA1Bk_1CeWyF-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="ig7lKBUopQ_dEr6nW1_Z-15" target="eCuNAEQwPA1Bk_1CeWyF-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="258" y="180" />
+              <mxPoint x="483" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ig7lKBUopQ_dEr6nW1_Z-15" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.nic;" vertex="1" parent="1">
           <mxGeometry x="230" y="210" width="57" height="38" as="geometry" />
         </mxCell>
@@ -36,6 +44,69 @@
         </mxCell>
         <mxCell id="ig7lKBUopQ_dEr6nW1_Z-19" value="WAN" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="291" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eCuNAEQwPA1Bk_1CeWyF-1" value="Ubuntu2&lt;br&gt;(Ubuntu 20.04.2.0 LTS)&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="413" y="50" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eCuNAEQwPA1Bk_1CeWyF-2" value="UFW" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="413" y="110" width="140" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Copy of Page-1" id="NrwfbSBdwDCP3SqFjjw0">
+    <mxGraphModel dx="623" dy="879" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="NVcNV1afNi9pfgvFKwM8-0" />
+        <mxCell id="NVcNV1afNi9pfgvFKwM8-1" parent="NVcNV1afNi9pfgvFKwM8-0" />
+        <mxCell id="NVcNV1afNi9pfgvFKwM8-16" value="" style="group" vertex="1" connectable="0" parent="NVcNV1afNi9pfgvFKwM8-1">
+          <mxGeometry x="220" y="282" width="483" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="NVcNV1afNi9pfgvFKwM8-13" value="Fysisk datamaskin. Vert for VM-er." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NVcNV1afNi9pfgvFKwM8-16">
+          <mxGeometry y="30" width="483" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="NVcNV1afNi9pfgvFKwM8-14" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.nic;" vertex="1" parent="NVcNV1afNi9pfgvFKwM8-16">
+          <mxGeometry x="400" width="57" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="NVcNV1afNi9pfgvFKwM8-15" value="Fysisk nettverkskort" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="NVcNV1afNi9pfgvFKwM8-16">
+          <mxGeometry x="280" y="9" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NVcNV1afNi9pfgvFKwM8-2" value="Linux Host&lt;br&gt;(Ubuntu 20.04.2.0 LTS)&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="NVcNV1afNi9pfgvFKwM8-1">
+          <mxGeometry x="220" y="75" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NVcNV1afNi9pfgvFKwM8-3" value="Fail2Ban" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="NVcNV1afNi9pfgvFKwM8-1">
+          <mxGeometry x="220" y="135" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NVcNV1afNi9pfgvFKwM8-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=classic;startFill=1;" edge="1" parent="NVcNV1afNi9pfgvFKwM8-1" source="NVcNV1afNi9pfgvFKwM8-4" target="NVcNV1afNi9pfgvFKwM8-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="400" />
+              <mxPoint x="649" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NVcNV1afNi9pfgvFKwM8-4" value="pfSense router&lt;br&gt;(2.5.1)&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="NVcNV1afNi9pfgvFKwM8-1">
+          <mxGeometry x="220" y="235" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NVcNV1afNi9pfgvFKwM8-5" value="UFW" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="NVcNV1afNi9pfgvFKwM8-1">
+          <mxGeometry x="220" y="155" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NVcNV1afNi9pfgvFKwM8-6" value="Internett/ &lt;br&gt;annet nettverksutstyr" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="NVcNV1afNi9pfgvFKwM8-1">
+          <mxGeometry x="548.5" y="110" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="NVcNV1afNi9pfgvFKwM8-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="NVcNV1afNi9pfgvFKwM8-1" target="NVcNV1afNi9pfgvFKwM8-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="235" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NVcNV1afNi9pfgvFKwM8-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="NVcNV1afNi9pfgvFKwM8-1" source="NVcNV1afNi9pfgvFKwM8-14" target="NVcNV1afNi9pfgvFKwM8-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NVcNV1afNi9pfgvFKwM8-20" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="NVcNV1afNi9pfgvFKwM8-1">
+          <mxGeometry x="240" y="470" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NVcNV1afNi9pfgvFKwM8-22" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="NVcNV1afNi9pfgvFKwM8-1">
+          <mxGeometry x="300" y="190" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
