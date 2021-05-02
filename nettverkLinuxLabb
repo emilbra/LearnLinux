@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-02T13:52:20.814Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="QgbEMcqANzmZD9FEvJsi" version="14.2.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-05-02T14:22:22.370Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="ga8A48aNLOFh8PxkhSeI" version="14.2.9" type="github" pages="3">
   <diagram id="JbxYOFSzG8xJrszYHL9N" name="Page-1">
     <mxGraphModel dx="516" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -107,6 +107,23 @@
         </mxCell>
         <mxCell id="NVcNV1afNi9pfgvFKwM8-22" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="NVcNV1afNi9pfgvFKwM8-1">
           <mxGeometry x="300" y="190" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="DMSCS_6MnsNUk14kEtKe" name="Page-3">
+    <mxGraphModel dx="516" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="1BlvTATSt5yL3mrCFvMg-0" />
+        <mxCell id="1BlvTATSt5yL3mrCFvMg-1" parent="1BlvTATSt5yL3mrCFvMg-0" />
+        <mxCell id="1BlvTATSt5yL3mrCFvMg-2" value="Ubuntu1&lt;br&gt;(Ubuntu 20.04.2.0 LTS)&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1BlvTATSt5yL3mrCFvMg-1">
+          <mxGeometry x="240" y="50" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1BlvTATSt5yL3mrCFvMg-3" value="Fail2Ban" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1BlvTATSt5yL3mrCFvMg-1">
+          <mxGeometry x="240" y="110" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1BlvTATSt5yL3mrCFvMg-4" value="UFW" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1BlvTATSt5yL3mrCFvMg-1">
+          <mxGeometry x="240" y="130" width="140" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
